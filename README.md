@@ -9,7 +9,7 @@ $ npm i sageone-wrapper -S
 
 ## Examples
 
-  To view the examples, clone the SageOne-NodeJS-Wrapper repo and install the dependencies in 'example' folder:
+  To view the example, clone the SageOne-NodeJS-Wrapper repo and install the dependencies in 'example' folder:
 
 ```bash
 $ git clone git://github.com/Webxity/SageOne-NodeJS-Wrapper --depth 1
@@ -17,7 +17,7 @@ $ cd SageOne-NodeJS-Wrapper/example
 $ npm install
 ```
 
-  Change configuration options with your SageOne application configuration. 
+  Change configuration options in 'index.js' with your SageOne application configuration. 
 
   Then run the example:
 
@@ -39,4 +39,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE) file for details
